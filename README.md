@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mono
+- 👋 Hi, I’m simon riley
 - 👀 I’m interested in something
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on nothing
